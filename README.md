@@ -17,6 +17,7 @@ Expected Commits against integrity rules :
 * Create a PR wanting to merge the feature-1 branch into main branch but DO NOT Merge it.
 * Create a feature-2 branch based on the main branch.
 * Make a commit on the feature-2 branch
+* Make a commit on the main branch updating a file
 * Merge the feature-2 branch first using a PR.
 * Now merge the feature-1 branch using the PR already created.
 * Create an expected results branch that will be used to update the expectedResults file.
